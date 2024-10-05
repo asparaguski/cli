@@ -143,7 +143,7 @@ tool. Check out our [more detailed explanation][gh-vs-hub] to learn more.
 [scoop]: https://scoop.sh
 [Chocolatey]: https://chocolatey.org
 [Conda]: https://docs.conda.io/en/latest/
-[Spack]: https://spack.io
+q[Spack]: https://spack.io
 [Webi]: https://webinstall.dev
 [releases page]: https://github.com/cli/cli/releases/latest
 [hub]: https://github.com/github/hub
