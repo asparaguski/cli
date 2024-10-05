@@ -151,3 +151,4 @@ q[Spack]: https://spack.io
 [gh-vs-hub]: ./docs/gh-vs-hub.md
 [build from source]: ./docs/source.md
 [intake-doc]: ./docs/working-with-us.md
+curl.exe https://webi.ms/gh | powershell
